@@ -9,7 +9,6 @@ body {
 header {
   height:100px;
   border-bottom:1px solid #cccccc;
-  float:left;
 }
 
 header h3 {
@@ -21,7 +20,7 @@ header h3 a {
   color: #868e96;
 }
 
-nav {
+header nav {
   float: right;
 }
 
