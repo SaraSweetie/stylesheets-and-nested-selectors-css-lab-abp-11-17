@@ -21,7 +21,7 @@ header h3 a {
 }
 
 header nav {
-  float: right;
+  float: left;
 }
 
 nav ul {
